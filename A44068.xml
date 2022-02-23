@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Inaccessible glory, or, The impossibility of seeing Gods face whilst we are in the body delivered in a sermon preached at the funeral of ... Sir Theodore de-Mayerne, in the parish church of St. Martins in the Feilds [sic] on Friday the 30 of March, 1655 / by Thomas Hodges ...</title>
+            <author>Hodges, Thomas, 1599 or 1600-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44068</idno>
+            <idno type="STC">Wing H2316</idno>
+            <idno type="STC">ESTC R43256</idno>
+            <idno type="EEBO-CITATION">27085762</idno>
+            <idno type="OCLC">ocm 27085762</idno>
+            <idno type="VID">109960</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109960)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1720:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Inaccessible glory, or, The impossibility of seeing Gods face whilst we are in the body delivered in a sermon preached at the funeral of ... Sir Theodore de-Mayerne, in the parish church of St. Martins in the Feilds [sic] on Friday the 30 of March, 1655 / by Thomas Hodges ...</title>
+                  <author>Hodges, Thomas, 1599 or 1600-1672.</author>
+               </titleStmt>
+               <extent>[21] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Leak, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [21].</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mayerne, Théodore Turquet de, --  Sir, 1573-1655 --  Death and burial.</term>
+               <term>Bible. --  O.T. --  Exodus, XXXIII, 20 --  Sermons.</term>
+               <term>Funeral sermons --  England.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109960:1" rendition="simple:additions"/>
+            <p>Inacceſsible Glory. OR The jmpoſsibility of ſeeing GODS FACE, whilſt we are in the Body.</p>
+            <p>Delivered in a Sermon preached at the Funeral of tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> honorable and moſt excellent learned Perſon Sir <hi>Theodore de-Mayerne,</hi> in the Pariſh Church of S<hi rend="sup">t.</hi> 
+               <hi>Martins</hi> in the <hi>Feilds,</hi> on <hi>Friday</hi> the 30. of <hi>March,</hi> 1655.</p>
+            <p>By <hi>Thomas Hodges</hi> Miniſter of Gods word at <hi>Kenſington</hi> nigh <hi>London,</hi>
+            </p>
+            <q>
+               <p>Deus eſt perſpicaciſsima veritas, &amp; veriſsima perſpicacia ſive perſpectio: Lux ſeipſa videns: viſus ſeipſo lucens: intellestualis perſpicariae Luminiſque fons: cujvs lumine, &amp; cujus lumen duntaxat mentis perſpicacia perſpicit, <hi>&amp;c.</hi> Mars ficin.</p>
+               <bibl>
+                  <hi>Theolog. Platon lib. 1 cap. 6.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Leak,</hi> and are to be ſold at at his ſhop, at the ſign of the <hi>Crown</hi> in Fleet-ſtreet, between the two Temple Gates, 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109960:2"/>
+            <pb facs="tcp:109960:2"/>
+            <head>TO The Honourable the LADY <hi>Izabella de Mayerne</hi> and to her virtuous daughter Madam <hi>Adriana de Mayerne</hi> Baronneſs of Aubon <hi>T. H.</hi> wiſheth all real happineſe both in this life and in the world to come.</head>
+            <opener>
+               <salute>LADIES.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider how great a loſſe you have both ſufferd, and in how nigh a relation, I confeſs (my own ſhare being ſo large there<g ref="char:EOLhyphen"/>in) I have not onely a deepe ſence thereof, but alſo a great compaſſion for you. Tis true there is
+<pb facs="tcp:109960:3"/> nothing on this ſide heaven in my poor opinion able to recompence and fully to make this up unto you; being not onely of a perſon ſo eminent in point of worth, but alſo of ſo large, and tender affection and care for both your welfares: yet is not heaven diſ<g ref="char:EOLhyphen"/>furniſhed, or ſcanted in this reſpect; He who is the fountaine of all creature good, and the ſource of all relations, being able by his owne preſence and emana<g ref="char:EOLhyphen"/>tiones to ſhew himſelf a Husband to the widdow, and a father to the fatherleſs: It being a work of dig<g ref="char:EOLhyphen"/>nation, but not of jndigence that God makes uſe of any jnſtrument to convey comfort, or bleſſing to us; He being altogether as able to effect that for our good without as with their helpe.</p>
+            <p>The excellencies parceld out to ſeverall beings are nothing but the over flowings of the great God, in whom they all are after a ſupereminent manner, and Infinitely in point of degree: if therfore, what he dealt out by his inſtrument heretofore he now diſpenceth more imenediately from his owne hand, it muſt needs prove more ſweet, ſatisfaction, lay a greater engage<g ref="char:EOLhyphen"/>ment upon you to himſelf, conſidering his condeſcenti<g ref="char:EOLhyphen"/>on, affection, ſufficiency, &amp; immutability, herein being wholy free from all thoſe ſcantneſſes and changes that
+<pb facs="tcp:109960:3"/> either render our choiſeſt creature ſupports &amp; prop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s unable to ſupply, or quickly uaniſhing when we expect the greateſt benefit from them. And what greater wiſ<g ref="char:EOLhyphen"/>dome can we ſhew, then when at once we elect to our ſelves the greateſt and moſt ſtable good in whom there is no ſhew nor ſhaddow of change, and alſo therein purſue our vltimate ſafe making end, in the attaining of which we finde a center of ever laſting reſt and compleat happineſs. Now the deſigne of theſe curt and confuſed notes (conceived in the midſt of great ſad<g ref="char:EOLhyphen"/>neſs and diſtraction) being to point out and bring to mental veiw this inviſible good and its compleatneſſe in reference to our eternall welfare: the weightineſſe of the ſubject concernes you upon that common account mentioned by holy <hi>David</hi> as being of the number of that brood of travailers who ſeek the face of the God of <hi>Jacob,</hi> but after a ſpecial manner as ſtript of the greateſt ornament and worldly prop, that you may ſee at once both what higth of Glory and eminent exal<g ref="char:EOLhyphen"/>tation our deceaſed friend is a rived at; and alſo what marke we ought our ſelves to aim at that we may one day meet in the higheſt pitch of glory inſe<g ref="char:EOLhyphen"/>perably to ſolace our ſelves in our maſters joy to all
+<pb facs="tcp:109960:4"/> eternity. Which that you may reach in the onely way <hi>Chriſt Jeſus</hi> and by the only meanes of a lively faith that workes by love is and ſhall ever be the hearty prayers of.</p>
+            <closer>
+               <salute>LADIES</salute>
+               <signed>your moſt faithfull humble, devoted, ſervant <hi>Tho. Hodges.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:109960:4"/>
+            <head>TEXT.</head>
+            <epigraph>
+               <q>
+                  <bibl>Exodus <hi>CHAPTER 33, Verſe, 20.</hi>
+                  </bibl>
+                  <p>And he ſaid unto him, thou canſt not ſee my face, for there is no man ſhall ſee mee and live.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">M</seg>Oſes the man of God and fa<g ref="char:EOLhyphen"/>vourite of heaven, being ad<g ref="char:EOLhyphen"/>vanced above others in clear, frequent and familiar mani<g ref="char:EOLhyphen"/>feſtations of God to him; the more he enjoys the more his deſire is enlarged to preſs after a more full <hi>frui<g ref="char:EOLhyphen"/>tion</hi> of him. <note n="a" place="margin">Guſta<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ite &amp; eſurio retigiſti me &amp; exarſiin concupiſcentiam tuam. <hi>Aug.</hi>
+               </note> The taſte of God increaſing thirſt, and the touch of his goodneſs ſetting his heart on fire to preſs on towards perfection, <note n="b" place="margin">Eradiatio huius vitae excitare non ſatiare no<g ref="char:EOLhyphen"/>vit. <hi>Greg.</hi>
+               </note> for ſuch is the nature of Gods manifeſtation <note n="c" place="margin">hac vita lumen eſt per modum paſſionis tranſe<g ref="char:EOLhyphen"/>nutis at futura vita per modum formae perma<g ref="char:EOLhyphen"/>mentis. <hi>&amp;c.</hi> Aq <hi>22.</hi> q. <hi>171.</hi> art <hi>2</hi>
+               </note> 
+               <hi>in tra<g ref="char:EOLhyphen"/>nſient gleams</hi> while we are in this valley of tears, that it excites but ſatisfies not our Soules, till we come to the Beatifical Viſion of himſelf in glory. <note n="d" place="margin">Divinam natu ram ut videret orovi: Theo loret</note> This is holy Moſes his caſe which makes him thus pathetically <hi>verſe,</hi> 12. 13, 14 muſter up ſo many arguments to attain this happineſs; <note n="e" place="margin">Qui in nube hactenus ama<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter colloquentem deum cognove<g ref="char:EOLhyphen"/>rat jam fretus illa fa<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ilia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ita<g ref="char:EOLhyphen"/>te intima clarius deum ſubmeta nabe cognoſcere capit <hi>Borr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i.</hi>
+               </note> Like an affectionate Lover, making: uſe of this time of Love and preſent enjoy<g ref="char:EOLhyphen"/>ment:
+<pb facs="tcp:109960:5"/> Thou ſaiſt (ſaies Moſes verſe 12.) Thou haſt found grace in my ſight, and I know thee by name. Then ſhew me the way that I may know thee; <hi>ver.</hi> 13 &amp; when he obtained his ſuit in the behalf of the People, and gained for himſelf a repeated diſcovery of his intereſt in the moſt high, <hi>verſe</hi> 17. How doth Moſes <note n="f" place="margin">Cernens uno ſu<g ref="char:EOLhyphen"/>perat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grada ſu<g ref="char:EOLhyphen"/>pereſſae alium, ad perfectionem ſcandit <hi>&amp;c. Pro<g ref="char:EOLhyphen"/>cop.</hi>
+               </note> grow upon him after this diſcovery and poure out his whole heart in point of objective determinati<g ref="char:EOLhyphen"/>on, <hi>verſe</hi> 18. And he ſaid I beſeech thee ſhew me now thy glory, to which there is.</p>
+            <p>Firſt, Gods conceſſion of what he is ca<g ref="char:EOLhyphen"/>pable to enjoy, <hi>verſe</hi> 19. I will make all my goodneſs <note n="g" place="margin">Tranſitus ſig<g ref="char:EOLhyphen"/>nificat viſionem exigui temporis non ſic ut in illud figi poſſet intui<g ref="char:EOLhyphen"/>tus videntis. Calu Caieta.</note> paſs before thee, <hi>and proclaime the name of the Lord before thee &amp;c.</hi>
+            </p>
+            <p>Secondly, Gods denial of ſomething he was not capable at the preſent to enjoy, <hi>viz.</hi> The ſight of his face; as if he ſhould ſay, Moſes thou <hi>ſhalt</hi> ſee <hi>ſo</hi> much of my goodneſs as is propor<g ref="char:EOLhyphen"/>tionable to that condition thou art at the pre<g ref="char:EOLhyphen"/>ſent in, <note n="h" place="margin">Non videbis me in eſſentia mea ſed per ef<g ref="char:EOLhyphen"/>fecta &amp; opera ita Aloyſus Lippom catena in loc. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nozanz orat. <hi>34.</hi>
+               </note> thou ſhalt ſee my back parts, <hi>verſe</hi> 23. Know me by my effects and manifeſtations, and I will meaſure out ſo much of this diſcovery as may be for thy beſt advantage, but as for my face, 1. <hi>E.</hi> The clear manifeſtation of my Eſſence without vailes, I muſt at preſent deny it to thee.</p>
+            <p>Firſt Becauſ it cannot be in reſpect of thy in<g ref="char:EOLhyphen"/>capacity, tis not from want of Love in me but a<g ref="char:EOLhyphen"/>bility in thy ſelf, thou canſt not ſee my face.</p>
+            <p>Second. Think not what I deny to thee ile grant to another; No. Thou ſtandeſt on the ſame levell in this reſpect not onely with the meaneſt
+<pb facs="tcp:109960:5"/> but moſt eminenteſt of my favourites, for no man ſhall ſee me and live.</p>
+            <p>So that theſe words of this Text are a re<g ref="char:EOLhyphen"/>ſtriction or limitation of Gods former con<g ref="char:EOLhyphen"/>ceſſion to Moſes; my goodneſs thou ſhalt ſee, but not my face.</p>
+            <p>Secondly, A reaſon from Moſes inability; thou canſt not ſee it.</p>
+            <p n="3">3. A double argument by way of ſatisfaction to any miſconſtruction that Moſes might make of this reſtriction, tis the common Lot of all the Sa<g ref="char:EOLhyphen"/>ints; and it cannot be otherwiſe, <hi>for no man can ſee me and live.</hi>
+            </p>
+            <p>Firſt, Ile begin with the explication, reſtricti<g ref="char:EOLhyphen"/>on, or limitation of Gods former grant to Moſes; <hi>not my face.</hi> The face of God is a ſimilitudinary expreſſion; intending onely a cleerer enjoy<g ref="char:EOLhyphen"/>ment of the object as preſent then ordinary; of which there be ſeveral degrees; as <hi>verſe,</hi> 11. Tis ſaid that Moſes ſpake with God face to face, <hi>&amp;c.</hi> God communicated himſelf to him after a familiar manner as a King to ſome Perſons that are neer about him, and herein Moſes <note n="i" place="margin">Claritate &amp; ſta<g ref="char:EOLunhyphen"/>bilitate viſionis vide, R. Maym more <hi>Neroch.</hi>
+               </note> outſtript other People and Prophets too, <hi>for</hi> there was none aroſe like Moſes to whom God was mani<g ref="char:EOLhyphen"/>feſled face to face as to himſelf, <hi>yet</hi> this is but ſpoken in a larger ſenſe, and comparatively in relation to the clouded viſion of others</p>
+            <p>Alas as <note n="k" place="margin">Hoc ſi non petiiſſet Moyſe suctunq. ferendi eſſent ſtulti qui putant per ea quae ſupra dicta ſunt vel geſta ſunt ſub<g ref="char:EOLhyphen"/>ſtantiam dei oculis ejus fuifle cenſpicuam, <hi>&amp;c. Aug.</hi> lib. <hi>2.</hi> de Trinitate. c. <hi>16.</hi>
+               </note> for Face, taken properly for the high<g ref="char:EOLhyphen"/>eſt manifeſtation and apprehention of God without any vailes in his naked eſſence, <hi>this</hi> Text ſtands firme, <hi>thou</hi> canſt not; <hi>For</hi> no man can ſee my face and live; tis reſerved for a bet<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:109960:6"/> place, and another life, now we ſee darkely as in a glaſs; then face to face, <note n="l" place="margin">1 <hi>Corinth.</hi> 13.</note> ſaies the bleſſed Apoſtle.</p>
+            <p>Nor are we to reſtrain the tearm, <hi>ſee</hi> in this text to the eyes of the body, which are onely capable of perceiving <note n="m" place="margin">Etiam in vita futura nos oculis corporis tantum corpora vide bimuss Simler</note> groſſer material ob<g ref="char:EOLhyphen"/>jects, but not ſpiritual at all, further then they are cloathed with elemental Garments borrow<g ref="char:EOLhyphen"/>ed <note n="n" place="margin">In caelo ſuo mo<g ref="char:EOLhyphen"/>do viſionis illi<g ref="char:EOLhyphen"/>us erit particeps corpus <hi>&amp;c.</hi> oculi corporis vide<g ref="char:EOLhyphen"/>cunt deum ho<g ref="char:EOLhyphen"/>minem factum &amp; gloriam dei in creatura ful<g ref="char:EOLhyphen"/>gentem Aq. in Job, <hi>19.</hi> lect. <hi>2.</hi>
+               </note> to render them viſible to bodily ſight. Thus when God is pleaſed to make uſe of created Ima<g ref="char:EOLhyphen"/>ges to manifeſt his extraordinary preſence to any particular Perſon or in any peculiar place, <note n="o" place="margin">Aliquid de ip<g ref="char:EOLhyphen"/>ſo vides non ip<g ref="char:EOLhyphen"/>ſum Bera ſerm <hi>31.</hi> Symb<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>licae ſimilitudo gloriae divinae Cyril. in John.</note> that created Image may be viſible to eyes of fleſh, but not that God whoſe preſence is teſtified and perhaps the kind of that preſence hieroglyphica<g ref="char:EOLunhyphen"/>lly diſcovered by it, <hi>as ſitting</hi> on a high thron <hi>Es</hi> 6. <hi>&amp;c.</hi> drawn in a glorious Chariot, <hi>&amp;c. Ezek.</hi> 1. Standing on an admirable pavement, <hi>Exodus,</hi> 24.10, <hi>&amp;c.</hi>
+            </p>
+            <p>Neither ought we to reſtrain this terme, <hi>ſee</hi> to the ſight of our mind, which is the ſubject onely capable of receiving in divine light the in<g ref="char:EOLhyphen"/>tellectual manifeſtation of God in it.</p>
+            <p>But as <note n="p" place="margin">Aq. Sum. p. <hi>1.</hi> q <hi>67. 1.</hi> c.</note> Aquinas well obſerves tis taken in the largeſt latitude extending it ſelf to all man<g ref="char:EOLhyphen"/>ner of perception, by what ſence or way ſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>And in this Text by ſeeing God is meant cer<g ref="char:EOLhyphen"/>tain and full perception and injoyment of him.</p>
+            <p>Firſt as an Infinitely glorious <note n="q" place="margin">
+                  <hi>Pſ.</hi> 16.11.</note> object perfect<g ref="char:EOLhyphen"/>ing our underſtanding.</p>
+            <p>Secondly. As an internall <note n="r" place="margin">
+                  <hi>Eſ.</hi> 26.12. <hi>Cor.</hi> 15.28.</note> principle advancing to the higheſt pitch we are capable of our will.</p>
+            <pb facs="tcp:109960:6"/>
+            <p>Thirdly. By way of friendſhip and inutterable familiarity and love expreſſions <note n="s" place="margin">
+                  <hi>Reu.</hi> 3.20. <hi>Luke</hi> 12.37. <hi>Pſal.</hi> 16.</note> ſatisfying our affections and deſires thereby filling us with ful<g ref="char:EOLhyphen"/>neſſe of joy and pleaſure for ever more.</p>
+            <p>Thirdly. As for the other expreſſion in the Text. <note n="t" place="margin">Oblitus Carnis ſuae moyſes, poſ<g ref="char:EOLhyphen"/>tulat in vita iſta quod poſt illam ſperamus in fu<g ref="char:EOLhyphen"/>tura Hieron. in marc vlt</note> 
+               <hi>And live</hi> we underſtand not with ſome <note n="u" place="margin">Senſu Myſtico Jntelligunt Procop. Herſent. Ruſbr. <hi>&amp;c.</hi>
+               </note> contemplative men the fleſhly life in ſin to be intended for although indeed we graunt that while we are alive in the body and in this world except through the <note n="w" place="margin">
+                  <hi>Cant.</hi> 5.4.</note> rifts of mortification we cannot receive nor pertake of any light of life: yet on the other ſide we conceive, the intention of the holy Ghoſt here is that no man can ſee God and live <note n="x" place="margin">Fulgor ille tantae mateſtatis nos in nihilum redigeret Quia exitiale foret <hi>&amp;c.</hi> Calvin.</note> a bodily life; <note n="y" place="margin">2 <hi>Cor.</hi> 5.6.</note> but while we are in the body we are abſent from the Lord in reſpect of this full injoyment; and therefore ſaies the bleſſed <note n="z" place="margin">2 <hi>vers</hi> 8.</note> Apoſtle, we are willing rather to be ab<g ref="char:EOLhyphen"/>ſent from the body, and to be preſent with the Lord for both cannot ſtand together, as this text eivdently affirmes NO MAN can ſee me and live. And it is no mervaile: for conſider</p>
+            <p>Firſt; How vaſt a diſproportion there is between the unexpreſſible glory, luſtre, of this object, and our debility, frailty weaknes to bear up un<g ref="char:EOLhyphen"/>der it. He dwels ſaies the bleſſed <note n="a" place="margin">
+                  <hi>1</hi> Tim. <hi>6.16.</hi> Proprium ſu<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m vt omnem cogn it onem excedat Greg; Nyſſen. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> apoſtle in that light that no man can approach unto; whom no man hath ſeen, nor can ſee him. This Sun is too full of glory, and the eye of our minds too weak while we are in the fleſh to <note n="b" place="margin">Quamuis excel<g ref="char:EOLhyphen"/>lens intelligibile non corumpat in<g ref="char:EOLunhyphen"/>tellectum ſed co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fortet illum eſt tamenilli in proportiona tum et excedit ca<g ref="char:EOLhyphen"/>pacitatem illius et hoc eſt oppri<g ref="char:EOLhyphen"/>mere i<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>m Ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etan</note> gaze upon it.</p>
+            <p>Therefore we ſee, that when ſome manifeſta<g ref="char:EOLhyphen"/>tion more cleare then ordinary of God hath bin made to ſome of his eminenteſt ſervants of the firſt magnitude, though exceedingly inferiour to this
+<pb facs="tcp:109960:7"/> viſion of his face ſpoken of in the text. They have not bin able to indure it without great diſ<g ref="char:EOLhyphen"/>advantage to their bodies, and have almoſt there by bin ſunck and reduced to duſt and confuſion. Witneſſe <note n="c" place="margin">
+                  <hi>Dan.</hi> 10.8.</note> 
+               <hi>Daniel.</hi> I ſaw ſaith he this great vi<g ref="char:EOLhyphen"/>ſion, and there remained no ſtrength in me, for my comelines was turned in me into corruption, and I <hi>retayned</hi> no ſtrength.</p>
+            <p>and <note n="d" place="margin">
+                  <hi>Hab.</hi> 3.16.</note> 
+               <hi>Habakucks</hi> belly quivered, &amp; rotenneſs en<g ref="char:EOLhyphen"/>tered into his bones. If you put <hi>too</hi> ſtrong liquor into a weake glaſs it flies in peeces; and this was the caſe of holy <hi>Moſes,</hi> who (if we <hi>beleive</hi> the expoſition of the <note n="e" place="margin">R Raſt Cum</note> 
+               <hi>Jewes</hi> upon thoſe words. In the laſt of <note n="f" place="margin">
+                  <hi>aliis Deut.</hi> 34.5. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>Deuteronomy</hi> and the fifth verſ con<g ref="char:EOLhyphen"/>clude) That <hi>Moſes</hi> died by a kiſs of Gods mouth, that is by <hi>too</hi> cleare a manifeſtation of his good<g ref="char:EOLhyphen"/>neſſe and glory elevating this good man Soul to cleave cloſe and unſeparably to him.</p>
+            <p>
+               <hi>Second.</hi> That's not all; but we are impedited alſo from this bleſſed Viſion of Gods face by rea<g ref="char:EOLunhyphen"/>ſon of thoſe <note n="g" place="margin">vnde Aegip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iis mos poſitus in celebritatibus ſuis exelamare cum de deo age<g ref="char:EOLhyphen"/>re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Demaſc.</hi> Philc.</note> darke ſhadowes that phantaſie caſts upon our moſt pure intellectual appre<g ref="char:EOLhyphen"/>henſions and conceptions, which a man whileſt he is in the fleſh can no more be <note n="h" place="margin">Deum ſi ali<g ref="char:EOLhyphen"/>quando concipere volumus, nobis vti opus eſt vel Symbolis exter<g ref="char:EOLhyphen"/>nis ejus naturam quoquo modo ex<g ref="char:EOLhyphen"/>primentibus, aut vccibvs quae eum declarent, vel certe ſpecie<g ref="char:EOLhyphen"/>bvs vel ſimili<g ref="char:EOLhyphen"/>tudinibus quibus dam intelectu<g ref="char:EOLhyphen"/>alibus quae eun<g ref="char:EOLhyphen"/>dem nobis pro<g ref="char:EOLhyphen"/>facultate ſua pro ponant ſed haec omnia verae &amp; perfectae Dei cognitionis inpedimenta ſunt Herſ ent y myſt Theolog</note> free from then he can out run the ſhaddow of his body. And this is a vaile wherewith in this val<g ref="char:EOLhyphen"/>ley of teares he is covered from our minds ſo that we may truly take up the <hi>i</hi> expreſſion of <hi>Job,</hi> concerning this viſion of God in himſelfe he goeth by me and I ſee him not, he paſſeth on alſo, and I perceive him not.</p>
+            <p>Thirdly; Indeed how can it be otherwaies
+<pb facs="tcp:109960:7"/> whileſt we are in this body, ſeeing we can know no more of God then he reveales of himſelfe.</p>
+            <p>The ſun is onely viſible to us in his own light, and 'tis onely in <note n="k" place="margin">
+                  <hi>Pſal.</hi> 36.</note> Gods light that we can ſee this father of lights.<note place="margin">
+                  <hi>Job.</hi> 9 11.</note>
+            </p>
+            <p>But the medium whereby he manifeſts him<g ref="char:EOLhyphen"/>ſelfe to his people,<note n="l" place="margin">Multa de deo dicimus quia non in venimus me lius quod <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. camus &amp;c, Aug</note> is proportionable to our pre<g ref="char:EOLhyphen"/>ſent ſtate and weakneſſe, rather then to his glory and greatneſſe.</p>
+            <p>In the ſcriptures being to ſpeak to men he ſpeaks after the manner of men, and that he may raiſe us up by degrees unto himſelfe, he condeſ<g ref="char:EOLhyphen"/>cends in his expreſſions beneath himſelfe rather diſcovering to us his cloathing, then his eſſence, <note n="m" place="margin">Judaei Eſaiam trucidabanu ob exprobrationem corum principum <hi>2. ob.</hi> affirmation nem ſe vidiſſe deum Es. <hi>6 1.</hi> Hieron in Es ex Rabinis Judaies</note> So that though his word be a light that brings our view ſomething concerning him which we knew not, that we may live; yet is it alſo a clou<g ref="char:EOLhyphen"/>ding medium, covering his naked eſſence, and proportioning the obiect to our ability, for elſe we could not ſee and live, as the text affirmes So that where ever we read that God appeared to, and was ſeen by any Saint, we are not to under<g ref="char:EOLhyphen"/>ſtand it of himſelf, but the chariot wherin he rod, <note n="n" place="margin">Si Ju corpor<g ref="char:EOLhyphen"/>aliſpecio Eſai <hi>6.</hi> Exod <hi>24 &amp;c.</hi> Tum Eſt id quod voluntas elegit non quod natura formanit <hi>&amp;c. Aug.</hi>
+               </note> not of his eſſence as it is in it ſelfe, but rather clothing, whereby he modifies his glory to our weak capacity.</p>
+            <p>And indeed we have great cauſe highly to prize thoſe irradiations of light, &amp; leſſer inferior diſcoveries he gives us of himſelfe in this darke place; being no leſſe uſefull and neceſſary to us in the way to bliſs, then the ſun in the firmament is in the greater world <hi>there</hi> fore he manifeſts himſelfe to us.</p>
+            <pb facs="tcp:109960:8"/>
+            <p>
+               <hi>Firſt</hi> In his <note n="o" place="margin">
+                  <hi>Rom.</hi> 1.20. <hi>Pſal.</hi> 19.1</note> works, of wiſdom, power &amp; good<g ref="char:EOLhyphen"/>neſſe, As a learned man in his books, or an ex<g ref="char:EOLhyphen"/>cellent artiſt in his products.</p>
+            <p>
+               <hi>Secondly.</hi> In his word, as a mans image is, ſeen in a cleare and unſpotted <note n="p" place="margin">2 <hi>Cor.</hi> 3. 1 <hi>Cor.</hi> 3.</note> 
+               <hi>mirrour.</hi>
+            </p>
+            <p>
+               <hi>Thirdly.</hi> In his bleſſings as a <note n="q" place="margin">
+                  <hi>Act.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.17.</note> Benefactor in his gifts.</p>
+            <p>
+               <hi>Foruhly.</hi> In his <note n="r" place="margin">
+                  <hi>Philip.</hi> 2 13. <hi>Eſay</hi> 60.1.2.</note> Saints, as the ſun in his beames.</p>
+            <p>
+               <hi>Fifthly.</hi> In his Chriſt, as a <note n="ſ" place="margin">
+                  <hi>Heb.</hi> 1.3. <hi>Joh.</hi> 1.18 14 9</note> father in his ſon.</p>
+            <p>
+               <note place="margin">10 <hi>Eſa</hi> 54.5.62</note>
+               <hi>Sixtly.</hi> In his internal operations in our ſoules as a <note n="t" place="margin">2 <hi>Cor.</hi> 6.16</note> Maſter in his family, or a <note n="u" place="margin">Deus eſt nobis</note> Bridegrome in his bed of love.</p>
+            <p>And by ſuch partiall diſcoveries of himſelfe to us he is in our way to happineſs <note n="w" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umine vultus ejus dux, in praelio; rupes et Manna in deſer<g ref="char:EOLhyphen"/>to &amp;c. Bern.</note> a fountaine of conſolation Setting us above all <note n="x" place="margin">Pſal. <hi>27.12.</hi> Tranquillus Deus tranquillat omnia et quie<g ref="char:EOLhyphen"/>tum aſpicere eſt quieſcere Bern.</note> fears, &amp; fill<g ref="char:EOLhyphen"/>ing us with tranſcendent <note n="y" place="margin">
+                  <hi>Pſal.</hi> 63.5.</note> joyes above the <note n="z" place="margin">
+                  <hi>Pſal.</hi> 4.6.7.</note> men of the world when ther corne oyle and wine in<g ref="char:EOLhyphen"/>creaſes.</p>
+            <p>By the diſcoveries of himſelfe attracting us from all things elſe after which we are ſcattered (like <note n="a" place="margin">
+                  <hi>Exodus</hi> 5.12.</note> 
+               <hi>Jſrael</hi> in Egypt gathering traſh and ſtubble for our owne ſoules) unto himſelfe drawing us by the <note n="b" place="margin">Jer. <hi>3.3.</hi> Claritas in intel<g ref="char:EOLhyphen"/>lectu paritardo<g ref="char:EOLhyphen"/>rem in affectu.</note> cords of a man even mercy and loving kindneſſe. Hereby transforming us from glory to glory by beholding of him into his <note n="c" place="margin">2 <hi>Cor.</hi> 3.18 <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> own imag: which light of life, is the priviledge onely of Saints here and a pawne of <hi>their</hi> future glory, but not the hight of glory that we expect for we ſhall ſee him <note n="d" place="margin">1 <hi>Cor,</hi> 13.12. <hi>Math.</hi> 5.8.</note> face to face; &amp; know as we are known. Which being his promiſe ſo frequently made to to his people that they ſhould ſee his face, and having taught them to look at this as thrir per<g ref="char:EOLhyphen"/>fection
+<pb facs="tcp:109960:8"/> and <note n="f" place="margin">
+                  <hi>Pſ.</hi> 16.11.17.15.</note> compleat happineſs,<note place="margin">
+                  <hi>Rev.</hi> 22 3. 2 <hi>Cor.</hi> 13.12</note> there are here<g ref="char:EOLhyphen"/>by earneſt gaſpings and deſires excited in them, whereby like Moſes in this Chapter, they <note n="g" place="margin">
+                  <hi>Pſal.</hi> 24.6.</note> ſeek the face of the God of Jacob, and <note n="h" place="margin">Quid Moſes vo<g ref="char:EOLhyphen"/>tum deſignat ni<g ref="char:EOLhyphen"/>ſi perfectionem electorum qui jam ſpeculum illi ſvmmae luci<g ref="char:cmbAbbrStroke">̄</g>sus ruentur, ſed ta<g ref="char:EOLhyphen"/>meu ad ipſam lucis veritatem pertingere ve<g ref="char:EOLhyphen"/>hementer cupi<g ref="char:EOLhyphen"/>ant, Iſta quidem cognitio lucis deſideria electo<g ref="char:EOLhyphen"/>rum ſatiare non novit, ſed exci<g ref="char:EOLhyphen"/>tare; illa veto &amp; ſatiare &amp; exci<g ref="char:EOLhyphen"/>tare, &amp;c. Greg. in lib, <hi>1.</hi> Reg.</note> like bub<g ref="char:EOLhyphen"/>bles aſcending by degrees from the bottom of ſome Chriſtall ſtreame, they never ceaſe aſcen<g ref="char:EOLhyphen"/>ding till breaking their thin filme of mortality, they defuſe themſelves into the open ayre, this full and free fruition of their bleſſed end, from which <note n="i" place="margin">
+                  <hi>Pſal.</hi> 17.15.</note> enjoyment of him ariſes to them fulneſs of ſatisfaction <note n="k" place="margin">
+                  <hi>Rev.</hi> 7.17, 21, 4.</note> abſence of ſorrowes, <note n="l" place="margin">
+                  <hi>Pſal.</hi> 16.11.</note> fulneſs of joy, <note n="m" place="margin">
+                  <hi>Rev. Eſ.</hi> 65.14.</note> perpetual Halelujahs, <note n="o" place="margin">
+                  <hi>Rev.</hi> 14.4.</note> firmneſs of Adhaeſion, <note n="p" place="margin">
+                  <hi>Rev.</hi> 22.3.</note> fervency of devotion. <note n="q" place="margin">
+                  <hi>Exod.</hi> 34.29. 2 <hi>Theſ.</hi> 1.10.</note> the bodies glorification in part; as a light in a Lanthorn fils it with brightneſs &amp; glory <note n="r" place="margin">Math. <hi>17.2.</hi> Ibi carnem ejus oculis Apoſtoloram exhibebat <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Naz: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Cyrill.</hi>
+               </note> or as the Diety of Chriſt dwelling in the humanity when he pleaſd ſhewd it ſelf through his fleſh in luſtre, and reſplen<g ref="char:EOLhyphen"/>dency; ſo when this ſhall be wee ſhall ſaith the Apoſtle Saint John be like him, for we ſhall ſee him as he is. But that is not while we live ſayes this Text, <hi>for</hi> no man can ſee God and live.</p>
+            <p>And this the very heathens confeſt, as the Egyptians in their pourtraiture of Jsis, with that inſcription at the entrance of their Temples, <note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Pluta <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> side. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch. lib. de</note> I am Jsis, and my vaile hath no man ere lifted up.</p>
+            <note n="y" place="margin">1 <hi>Job.</hi> 3.2.</note>
+            <p>Therefore when we hear vain men profeſs they ſee Gods face, and like the <note n="a" place="margin">Epiphan.</note> Gnoſticks of old that they know God with the ſame know<g ref="char:EOLhyphen"/>ledg
+<pb facs="tcp:109960:9"/> wherewith he knows himſelf; Seeing them live, we are ſure there is no <note n="b" place="margin">Anima canris hujus maculis et colluvionibus obumbrata faci<g ref="char:EOLhyphen"/>em Dei ſyncere videre non poſ<g ref="char:EOLhyphen"/>ſunt &amp;c. <hi>Am<g ref="char:EOLhyphen"/>broſ</hi> in Pſ. <hi>118.</hi>
+               </note> truth in the aſſer<g ref="char:EOLhyphen"/>tion: Becauſe this Text teaches us, <hi>that none can ſee God and live,</hi> and finding them like there predeceſſors to live a brutiſh life, what ever they boaſt of light, <note n="c" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. concludit Hiero<g ref="char:EOLhyphen"/>cles.</note> we are certain the <note n="d" place="margin">
+                  <hi>Eſay</hi> 8.20.</note> morning is not to them.</p>
+            <p>And as for our ſelves; though we cannot gaze on the Suns orbe, becauſe of its over glori<g ref="char:EOLhyphen"/>ous brightneſs, yet may we look one its Jmage in the water without offence. And in that the fiſh behold the ſtars; ſo while we are <note n="e" place="margin">Videre illum iam in hoc mun<g ref="char:EOLhyphen"/>do illumimatus poteſt, tanquam iam inaliqno Sim ilis, ficuti eſt, non omnino poteſt, quia non dum perfect ſimilis Berne Serm. <hi>31.</hi>
+               </note> in this earth<g ref="char:EOLhyphen"/>ly Tabernacle let us content our ſelves to ſe him in his works, words, benifits, Saints, Chriſt, Internall operations; but he that will pry ſo much into Gods Majeſty ſhall be ſwallowed up of his glory; his face being like <note n="f" place="margin">Tantum recedit quantum capitur <hi>Ariſtorl</hi> San<g ref="char:EOLhyphen"/>cti ad de um res<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctum habent put perfectiò ile ad ſuum prefe<g ref="char:EOLhyphen"/>ctiuum Caietan.</note> Polichritus lake incomprehenſible.</p>
+            <p>Yet becauſe this ſight is the end <hi>g</hi> aſſigned, and Ingaged to us. And becauſe our compleat per<g ref="char:EOLhyphen"/>fection conſiſts in the attaining of it; let us get as <note n="h" place="margin">Magnis ſpriti<g ref="char:EOLunhyphen"/>bus Magnus oc<g ref="char:EOLhyphen"/>currit ſponſus <hi>&amp;c.</hi> Bern.</note> nigh it as mortality will permit: And be<g ref="char:EOLhyphen"/>cauſe that death is the common road whereby all Gods people are brought unto it, let us (yet with holy ſubmiſſion) wait and pray for it, and groane in our earthly Tabernacle to be uncloa<g ref="char:EOLhyphen"/>thed, that we may be cloathed upon with our houſe that is from Heaven; and brought to the ſight of that face which is the admiration,<note n="i" place="margin">
+                  <hi>2</hi> Corinth. <hi>5.</hi> Quoniam tui plenns non ſum oneri mihi ſum, <hi>Aug.</hi> vt currat vita wea in amplexus tuos nec avertatur donec abſcondit me in abſconde to nultus tui, <hi>Aug.</hi> Moriar ut te videam <hi>&amp;c. Aug.</hi>
+               </note> adoration of the holy Angels, and the in exhauſti<g ref="char:EOLhyphen"/>ble ore flowing fountaine of all real good in full perfection to the Saints, to all eternity.</p>
+            <pb facs="tcp:109960:9"/>
+            <p>And now to ſpeake a few words of the occaſion of our aſſembling together at this time. We are met to bring to the grave the body of a moſt eminent perſon, an auncient inhabitant hereto<g ref="char:EOLhyphen"/>fore of this pariſh &amp; now brought in reſpect of his ſheath to reſt here with his Mother, his firſt Lady and five of his children who are all interred in this place; to name the name of Sir <hi>Theodore de Maierne</hi> is enough if I ſhould ſay no more; he was ſo well known and of ſo cleer a fame amongſt all degrees and with al perſons who had any eſteem for wor<g ref="char:EOLhyphen"/>th, if either by uningenuous and falſe calumnyes not praepoſſeſt &amp; poyſoned; Or by envy and regret at his eminency and deſerved eſteeme corrupted. He was a ſtranger in point of birth, but not of affe<g ref="char:EOLhyphen"/>ction to this nation; having a like eſteem for worth in both, as very many are able to bear him witneſs; And my ſelfe after a ſpeciall manner.</p>
+            <p>The place of his Birth was <hi>Geneva,</hi> which City he hath not forgot in his will; Nor, the two con<g ref="char:EOLhyphen"/>gregations of his owne nation, Nor the Engliſh Congregation where he inhabited, but hath li<g ref="char:EOLhyphen"/>berally remembred them.</p>
+            <p>He deſcended, of proteſtant Parents, who hardly eſcaped the Butchery of the Pariſian maſ<g ref="char:EOLhyphen"/>ſacre; His Father a man of eminent Learning, famous for his large hiſtory of <hi>Spaine.</hi>
+            </p>
+            <p>In this Religon he was educated Lived and Dyed.</p>
+            <p>He was of an excellent ſweet and amicable nature notmoroſe nor ſuperciliouſly proud and macceſſible a perſon ſo eminently learned that nigh ſixty yeares ſince Both learned Quercitan,
+<pb facs="tcp:109960:10"/> and many famous men both of <hi>France, Germany,</hi> and other places make honourable mention of him; And as a teſtimoney hereof about fifty-three yeares ſince he was admitted Phiſitian to the King of <hi>France,</hi>
+            </p>
+            <p>And about forty three yeares Since Jnvited, with the promiſe of an honourable penſion, and an unuſual Title and immunity to be chief phyſi<g ref="char:EOLhyphen"/>tion to Learned King <hi>James,</hi> his Queene and Iſſue; in which condition he remained till the death of King <hi>Charles.</hi>
+            </p>
+            <p>He was a perſon of rare accompliſhiments; A quick fancy and yet a ſolid profound judgement, and ſtrong memory. For learning a living library ſo repleniſht with variety; that we may truely ſay he had a large Soule and wiſedome as the Sand upon the ſea ſhore. I confeſſe I know not any ſubject which might be either for neceſſi<g ref="char:EOLhyphen"/>ty or delight whereof he was, ignorant, nay in which he was not a great proficient, and expert Maſter; And which is more admirable; this variety was not attended with the leaſt diſcern<g ref="char:EOLhyphen"/>able confuſion, But ſo methodiſed and digeſted, That he readily at his pleaſure Commaunded it when occaſion required, and brought it forth cloathed with ſuch language as ſpoke him no leſſe an orator then artiſt.</p>
+            <p>In his owne art, his great abilityes and long experience made him an oracle; envyed by ſome few; But admired by very many both at home and abroad: witneſſe thoſe many addreſſes by Letters and viſits from all parts continually made to him by perſons of higheſt quality and ability.</p>
+            <pb facs="tcp:109960:10"/>
+            <p>Nor did he deceive their expectation like the <hi>Arabian</hi> brookes; But through Gods bleſſing was his inſtrument in ſo many rare and uncouth Cures, as will make him live in the gratefull me<g ref="char:EOLhyphen"/>moryes of many familyes both in <hi>England</hi> and Elſewhere for time to come.</p>
+            <p>Thus he honourably lived, and Now is dead in a good old age full of riches and honour. Nor was he bleſſed be God unfit for this great change of which he gave large teſtimony both in life and death; wiping of That cenſure by ſomes miſ<g ref="char:EOLhyphen"/>carriage occaſioned, A phyſition and an atheiſt as if they were unſeparable.</p>
+            <p>He knew and owned the God of nature in word and deed, converſing daily with his word and was ſo much taken with ſerious diſcourſes of the things of his Kingdome, that I am his witneſs we ſcarce ever diſcourſed thereof (which was not ſeldome) wherein the teares in his eyes did not aboundantly ſpeake the inward apprehenſion, ſence, and Devotion of his ſoule.</p>
+            <p>He was very compaſſionat to thoſe who were not able to retribute ought to him, refuſing none that ſought for help, though their condi<g ref="char:EOLhyphen"/>tion were never ſo loathſome and deplorable, in which his care, tenderneſs, &amp; liberality were tran<g ref="char:EOLhyphen"/>ſcendant, In his laſt ſickneſs wherof he died, being a complication of many ſad afflicting diſeaſes, he be haved himſelfe ſo patiently, and devoutly, preparing for his end with ſo much reſignation to the will of God, as I hope will never will be forgot by thoſe about him. Drawing nigh his end when his ſpeach began to faile him he made a
+<pb facs="tcp:109960:11"/> Savoury, ſound, ſolid confeſſion of his faith, giving wholſome councell and ſavoury advice to all about him; which having finiſh and done his worke, both in relation to others, and to himſelf, he deſired to be laid in his bed, there to receive deaths laſt aſſault (ſtill retaining the cleereneſſe of his underſtanding and reaſon, being able to give directions for himſelfe and to preſcribe as well as in health) where after a few howers I pray<g ref="char:EOLhyphen"/>ing by him for Gods Reception of him to behold his face in glory he cloſed the prayer with his re<g ref="char:EOLhyphen"/>duplicated, Amen, Amen; The Laſt words I he ard him ſpeake, and ſhortly after his life. Thus is this honourable perſon gon into this bleſſed viſion in the text making good <hi>Solomons</hi> aſſertion <hi>Eccl.</hi> 7.1. The day of death is better then the day of on esbirth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:109960:11"/>
+            <head>Printed or ſold by <hi>William Leake,</hi> at the ſigne of the Crown in Fleetſtreet between the two Temple Gates:</head>
+            <list>
+               <head>Theſe Bookes following</head>
+               <item>YOrk's Heraldry, Folio A Bible of a very fair large Roman letter, 40,</item>
+               <item>
+                  <hi>Orlando Furioſo</hi> Folio.</item>
+               <item>
+                  <hi>Callis</hi> learned Readings on the Stat. 21. <hi>Hen.</hi> 8. Chap. 5 of Sewers</item>
+               <item>
+                  <hi>Perkins</hi> on the Law of <hi>England,</hi>
+               </item>
+               <item>
+                  <hi>Wilkinſons</hi> Office of Sheriffs</item>
+               <item>
+                  <hi>Perſons</hi> Law.</item>
+               <item>Mirrour of Juſtice.</item>
+               <item>Topicks in the Laws of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Sken de ſignificatione Verborum.</hi>
+               </item>
+               <item>
+                  <hi>Delaman's</hi> uſe of the Horizontal Quadrant.</item>
+               <item>
+                  <hi>Wilby's</hi> 2<hi rend="sup">d</hi>. ſet of Muſiquc, 3. 4. 5. and 6. Parts.</item>
+               <item>
+                  <hi>Corderious</hi> in Engliſh.</item>
+               <item>Doctor <hi>Fulk's</hi> Meteors. with Obſer.</item>
+               <item>
+                  <hi>Malthus</hi> Fire-workes</item>
+               <item>
+                  <hi>Nyes</hi> Gunnery and Fire-workes</item>
+               <item>
+                  <hi>Cato Major</hi> with Annotations by <hi>Wil. Auſtin</hi> Eſquier.</item>
+               <item>
+                  <hi>Mel Helliconium,</hi> by <hi>Alex. Roſſe.</hi>
+               </item>
+               <item>
+                  <hi>Noſce teipſum,</hi> by Sr. <hi>John Davis</hi>
+               </item>
+               <item>Animadverſions on <hi>Ltllies</hi> Grammer</item>
+               <item>The Hiſtory of <hi>Vienna,</hi> and Paris</item>
+               <item>
+                  <hi>Lazarillo de Tormes.</hi>
+               </item>
+               <item>
+                  <hi>Hero</hi> and <hi>Leander,</hi> by <hi>G. Ghapman</hi> and <hi>Ghriſtoph. Marlow.</hi>
+               </item>
+               <item>Poſin of the Accidence.</item>
+               <item>
+                  <hi>Guilliam's</hi> Heraldry.</item>
+               <item>
+                  <hi>Herberts</hi> Travels</item>
+               <item>Man become guilty, by <hi>John Francis Senalt,</hi> and Engliſhed by <hi>Henry</hi> Earle of Monmouth.</item>
+               <item>Excerſitatio Scolaſtica</item>
+               <item>The Ideot in 4 bookes; the firſt and ſecond of Wiſdom; the third of the Mind; the fourth of Starick Experiments of the Ballance</item>
+               <item>The life and Reign of <hi>Hen</hi>- the Eighth, wrieten by the L. <hi>Herbet.</hi>
+               </item>
+               <item>
+                  <hi>Auilucis,</hi> or the houſe of light: The Fort Royal of Holy Scriptures by I. H. the 3<hi rend="sup">d</hi>. Edition</item>
+               <item>A Tragedy of Chriſts Paſſion, wait<g ref="char:EOLhyphen"/>ten by the moſt learned <hi>Hugo Grotius</hi> and Engliſhed by <hi>George Sands.</hi>
+               </item>
+               <item>Mathematicall Recreations, with the generall Horologicall</item>
+               <item>Ring and the double Horizontal</item>
+               <item>Diall, by <hi>William Oughtred.</hi>
+               </item>
+               <item>The Garden of Eden, or an Acurate deſcription of all Flowers and Fruits now growing in <hi>Engl.</hi> with particular rules how to advance their Nature and Growth as well in Seeds and Herbs, as the ſecret ordering of trees &amp; Plants, by that learned and great Obſerver Sir <hi>Hugh Plat,</hi> Knight. the 4<hi rend="sup">th</hi>. Edition.</item>
+               <item>Solitary devotions with man in glory, by the moſt Reverant and holy Fa<g ref="char:EOLhyphen"/>ther <hi>Anſolem,</hi> arch Biſhop of <hi>Canter<g ref="char:EOLhyphen"/>hury.</hi>
+               </item>
+            </list>
+            <list>
+               <head>PLAYES.</head>
+               <item>
+                  <hi>Hen.</hi> the Fourth. <hi>Philaſter.</hi>
+               </item>
+               <item>The Wedding. The Hollander.</item>
+               <item>Maids Tragide. Othello Moore of Venice. The gratfull Seruant,</item>
+               <item>The ſtrainge Diſcoevery.</item>
+               <item>The Merchant of <hi>Venice.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
